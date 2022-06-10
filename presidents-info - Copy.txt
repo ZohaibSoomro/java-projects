@@ -1,0 +1,322 @@
+George_Washington
+1
+57
+2863
+-
+2
+135
+John Adams
+2
+62
+1460
+-
+5
+-
+Thomas Jefferson
+3
+58
+2920
+-
+6
+-
+James Madison
+4
+58
+2920
+-
+0
+-
+James Monroe
+5
+59
+2920
+-
+3
+-
+John Quincy Adams
+6
+58
+1460
+-
+6
+8495
+Andrew Jackson
+1
+62
+2920
+-
+0
+-
+Martin Van Buren
+8
+55
+1460
+-
+5
+-
+William Henry Harrison
+9
+55
+30
+-
+10
+-
+John Tyler
+10
+51
+1460
+-
+15
+-
+James K.Polk
+11
+50
+1460
+-
+0
+-
+Zachary Taylor
+12
+65
+435
+-
+6
+-
+Millard Fillmore
+13
+50
+1003
+-
+2
+-
+Franklin Pierce
+14
+48
+1460
+-
+3
+-
+James Buchanan
+15
+66
+1460
+-
+0
+-
+Abraham Lincoln
+16
+52
+1202
+-
+7
+-
+Andrew Johnson
+17
+57
+1419
+-
+5
+-
+Ulysses S.Grant
+18
+47
+2920
+-
+4
+-
+Rutherford B.Hayes
+19
+55
+1460
+-
+8
+-
+James Abram Garfield
+20
+50
+199
+-
+7
+-
+Chester Alan Arthur
+21
+52
+1261
+-
+3
+-
+Grover Cleveland
+22
+48
+1460
+-
+5
+-
+Benjamin Harrison
+23
+56
+1460
+-
+2
+-
+Grover Cleveland
+24
+56
+1460
+-
+3
+-
+William Mckinley
+25
+54
+1654
+-
+2
+-
+Theodore Roosevelt
+26
+43
+2728
+-
+5
+-
+William Howard Taft
+27
+52
+1460
+-
+3
+-
+Woodrow Wilson
+28
+57
+2920
+-
+3
+-
+Warren G.Harding
+29
+56
+881
+-
+0
+-
+Calvin Coolidge
+30
+51
+2041
+-
+2
+-
+Herbert Hoover
+31
+55
+1460
+-
+2
+-
+Franklin D.Roosevelt
+32
+54
+442
+-
+6
+-
+Harry S.Truman
+33
+61
+2840
+-
+1
+-
+Dwight D.Eisenhower
+34
+63
+2920
+-
+2
+-
+John F.Kennedy
+35
+44
+1036
+-
+2
+-
+Lyndon B.Johnson
+36
+55
+2192
+-
+2
+-
+Richard Nixon
+37
+56
+2027
+-
+2
+-
+Gerald Ford
+38
+61
+895
+-
+4
+-
+Jimmy Carter
+39
+53
+1460
+-
+4
+-
+Ronald Reagan
+40
+70
+2920
+-
+3
+-
+George Bush
+41
+65
+1460
+-
+6
+-
+Bill Clinton
+42
+47
+2920
+-
+1
+-
+George W.Bush
+43
+55
+2920
+-
+2
+-
+Barack Obama
+44
+48
+2920
+-
+2
+-
+Donald Trump
+45
+71
+1460
+1
+5
+-
+Joe Biden
+46
+79
+-
+-
+-
+-
